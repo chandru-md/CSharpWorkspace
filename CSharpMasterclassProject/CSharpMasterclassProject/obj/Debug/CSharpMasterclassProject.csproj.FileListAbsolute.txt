@@ -1,0 +1,7 @@
+F:\C_#_Workspace\CSharpMasterclassProject\CSharpMasterclassProject\bin\Debug\CSharpMasterclassProject.exe.config
+F:\C_#_Workspace\CSharpMasterclassProject\CSharpMasterclassProject\bin\Debug\CSharpMasterclassProject.exe
+F:\C_#_Workspace\CSharpMasterclassProject\CSharpMasterclassProject\bin\Debug\CSharpMasterclassProject.pdb
+F:\C_#_Workspace\CSharpMasterclassProject\CSharpMasterclassProject\obj\Debug\CSharpMasterclassProject.csproj.AssemblyReference.cache
+F:\C_#_Workspace\CSharpMasterclassProject\CSharpMasterclassProject\obj\Debug\CSharpMasterclassProject.csproj.CoreCompileInputs.cache
+F:\C_#_Workspace\CSharpMasterclassProject\CSharpMasterclassProject\obj\Debug\CSharpMasterclassProject.exe
+F:\C_#_Workspace\CSharpMasterclassProject\CSharpMasterclassProject\obj\Debug\CSharpMasterclassProject.pdb
